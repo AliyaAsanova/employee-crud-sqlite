@@ -61,7 +61,8 @@ The program will:
 
 
 ### 💬 Console Output  
-![screenshot1](https://github.com/user-attachments/assets/7cd8bf4a-ce60-4493-bac1-83cf02f2ec4e)
+![main_screenshot](https://github.com/user-attachments/assets/2c349973-bdee-41f9-b272-4fd4f4b0e568)
+
 
 ---
 
